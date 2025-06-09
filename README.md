@@ -26,4 +26,4 @@
 
 Kamu bisa lihat demo live-nya di:
 
-👉 [GitHub Pages](https://Nizaru.gpt.github.io/natashop)
+👉 [GitHub Pages](https://github.com/Nizaru-gpt/Natashop.git)
